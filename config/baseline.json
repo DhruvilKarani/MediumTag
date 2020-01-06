@@ -1,0 +1,12 @@
+{
+    "params":{
+        "n_estimators" : 100,
+        "max_depth": 100,
+        "min_samples_leaf":10
+    },
+    "params_dict":{
+        "n_estimators" : [50, 150],
+        "max_depth": [50, 150],
+        "min_samples_leaf":[5, 20]
+    }
+}
